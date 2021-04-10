@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nstd.sfclub.cc</id>
-    <title>nstd::out</title>
+    <title>nstd::out • Posts by &#34;tech,linux&#34; tag</title>
     <link href="https://nstd.sfclub.cc" />
     <updated>2021-03-13T14:57:30.000Z</updated>
     <category term="tech,linux" />
@@ -32,13 +32,5 @@
 </content>
         <category term="tech,linux" />
         <updated>2021-03-13T14:57:30.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://nstd.sfclub.cc/2021/03/12/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="https://nstd.sfclub.cc/2021/03/12/hello-world/"/>
-        <content type="html">&lt;p&gt;你好, Hexo！&lt;br&gt;折腾了一个晚上，我终于还是回到 Hexo 的怀抱了。&lt;br&gt;接下来会陆陆续续更新一些杂文，并且把我在 Lxnet 发布的那几篇文章搬一下，欢迎 &lt;a href=&#34;https://github.com/iceBear67/blog&#34;&gt;Watch/订阅&lt;/a&gt; 我的博客。  &lt;/p&gt;
-</content>
-        <updated>2021-03-12T14:43:58.173Z</updated>
     </entry>
 </feed>
