@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2021-07-18T11:13:40.335Z</updated>
+  <updated>2021-07-18T11:16:06.778Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -21,17 +21,14 @@
     <link href="https://nstd.sfclub.cc/2021/07/18/Idea/"/>
     <id>https://nstd.sfclub.cc/2021/07/18/Idea/</id>
     <published>2021-07-18T05:51:17.000Z</published>
-    <updated>2021-07-18T11:13:40.335Z</updated>
+    <updated>2021-07-18T11:16:06.778Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;p&gt;踩坑记录  &lt;/p&gt;
-&lt;h1 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL;DR&quot;&gt;&lt;/a&gt;TL;DR&lt;/h1&gt;&lt;p&gt;系统: ArchLinux&lt;br&gt;一切的大前提:</summary>
-        
-      
+&lt;h1 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL;DR&quot;&gt;&lt;/a&gt;TL;DR&lt;/h1&gt;&lt;p&gt;系统: ArchLinux&lt;br&gt;一切的大前提: 环境变量设置正确(GTK_IM_MODULE…)  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ibus 用户可以试试迁移到 fcitx&lt;/li&gt;
+&lt;li&gt;fcitx 如果不行可能得自己编译一个 patched 的 JetBrains Runtime</summary>
     
     
     

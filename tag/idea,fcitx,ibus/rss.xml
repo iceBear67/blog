@@ -19,9 +19,9 @@
 &lt;h1 id=&#34;TL-DR&#34;&gt;&lt;a href=&#34;#TL-DR&#34; class=&#34;headerlink&#34; title=&#34;TL;DR&#34;&gt;&lt;/a&gt;TL;DR&lt;/h1&gt;&lt;p&gt;系统: ArchLinux&lt;br&gt;一切的大前提: 环境变量设置正确(GTK_IM_MODULE…)  &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;ibus 用户可以试试迁移到 fcitx&lt;/li&gt;
-&lt;li&gt;fcitx 如果不行可能得自己编译一个 patched 的 JetBrains Runtime&lt;/li&gt;
+&lt;li&gt;fcitx 如果不行可能得自己编译一个 patched 的 JetBrains Runtime&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+&lt;h1 id=&#34;开始&#34;&gt;&lt;a href=&#34;#开始&#34; class=&#34;headerlink&#34; title=&#34;开始&#34;&gt;&lt;/a&gt;开始&lt;/h1&gt;IDEA 没法输入中文的问题其实在我系统上盘踞很久了，一会能用一会不能的….所以我打算动手整顿他&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;开始&#34;&gt;&lt;a href=&#34;#开始&#34; class=&#34;headerlink&#34; title=&#34;开始&#34;&gt;&lt;/a&gt;开始&lt;/h1&gt;&lt;p&gt;IDEA 没法输入中文的问题其实在我系统上盘踞很久了，一会能用一会不能的….所以我打算动手整顿他&lt;/p&gt;
 &lt;h1 id=&#34;设置环境变量&#34;&gt;&lt;a href=&#34;#设置环境变量&#34; class=&#34;headerlink&#34; title=&#34;设置环境变量&#34;&gt;&lt;/a&gt;设置环境变量&lt;/h1&gt;&lt;p&gt;学着 ArchLinux Wiki，我首先往 &lt;code&gt;~/.pam_environment&lt;/code&gt; 加了这些东西:  &lt;/p&gt;
 &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;GTK_IM_MODULE DEFAULT&amp;#x3D;ibus&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;QT_IM_MODULE DEFAULT&amp;#x3D;ibus&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;XMODIFIERS DEFAULT&amp;#x3D;\@im&amp;#x3D;ibus&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;然而并没有什么效果… 加到 &lt;code&gt;idea.sh&lt;/code&gt; 头上也不行，&lt;code&gt;qtconfig-qt4&lt;/code&gt; 也改过了，没啥效果&lt;/p&gt;
