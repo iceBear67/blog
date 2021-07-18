@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2021-03-14T02:31:06.373Z</updated>
+  <updated>2021-07-18T11:13:40.335Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>修复 Intellij IDEA 无法使用中文输入法</title>
+    <link href="https://nstd.sfclub.cc/2021/07/18/Idea/"/>
+    <id>https://nstd.sfclub.cc/2021/07/18/Idea/</id>
+    <published>2021-07-18T05:51:17.000Z</published>
+    <updated>2021-07-18T11:13:40.335Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;踩坑记录  &lt;/p&gt;
+&lt;h1 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL;DR&quot;&gt;&lt;/a&gt;TL;DR&lt;/h1&gt;&lt;p&gt;系统: ArchLinux&lt;br&gt;一切的大前提:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="idea,fcitx,ibus" scheme="https://nstd.sfclub.cc/tags/idea-fcitx-ibus/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 cproxy 对程序进行透明代理</title>
