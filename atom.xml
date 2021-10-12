@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2021-10-02T01:40:18.741Z</updated>
+  <updated>2021-10-12T09:59:27.864Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大风天</title>
+    <link href="https://nstd.sfclub.cc/2021/10/12/Windy-Day/"/>
+    <id>https://nstd.sfclub.cc/2021/10/12/Windy-Day/</id>
+    <published>2021-10-12T09:01:14.000Z</published>
+    <updated>2021-10-12T09:59:27.864Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;深夜了。&lt;/p&gt;
+&lt;p&gt;窗外，大风呼啸着向我宣告冬天的到来。我躺在床上，静静地聆听风的呼声。  &lt;/p&gt;
+&lt;p&gt;闭上了双眼，就仿佛置身于世界之外，只有风的护声。仿佛想到在几千年前……更久以前风也是这么呼的。  &lt;/p&gt;
+&lt;p&gt;像是凄凉的呼唤，又像是愤怒的咆哮——不过只是人主观给他添加上的情绪。风大抵是没有感情的，只是咆哮，从地球之初到现世皆是如此，毫无忌惮的咆哮着。  &lt;/p&gt;
+&lt;p&gt;风挂过窗外的小河引起阵阵波浪，也刮的树叶动燥不安，风试图撞进窗来，而我听着他们的声音安稳的睡了一觉。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="life memories" scheme="https://nstd.sfclub.cc/tags/life-memories/"/>
+    
+  </entry>
   
   <entry>
     <title>从零开始的编译器生涯</title>
