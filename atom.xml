@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2021-10-12T09:59:27.864Z</updated>
+  <updated>2021-11-05T16:21:35.170Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浅谈 Java 虚拟机是如何标识垃圾的</title>
+    <link href="https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/"/>
+    <id>https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/</id>
+    <published>2021-11-05T15:20:16.000Z</published>
+    <updated>2021-11-05T16:21:35.170Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
+&lt;p&gt;然而，真的是这样吗？即使有&lt;a href=&quot;https://malloc.se/blog/zgc-jdk16&quot;&gt;神一般高性能的垃圾回收器&lt;/a&gt;，我们写代码时仍然需要注意它是&lt;em&gt;如何标记垃圾对象&lt;/em&gt;的，因为垃圾回收器并不是万能的，仍然有一些工作需要程序员自己完成。  &lt;/p&gt;
+&lt;p&gt;本文试图通俗易懂的讲解 JVM 上标记垃圾的方法，如有错误请在评论区指正。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="tech" scheme="https://nstd.sfclub.cc/tags/tech/"/>
+    
+  </entry>
   
   <entry>
     <title>大风天</title>
