@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2021-11-05T16:21:35.170Z</updated>
+  <updated>2021-11-05T16:23:07.616Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/"/>
     <id>https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/</id>
     <published>2021-11-05T15:20:16.000Z</published>
-    <updated>2021-11-05T16:21:35.170Z</updated>
+    <updated>2021-11-05T16:23:07.616Z</updated>
     
     
     <summary type="html">&lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
