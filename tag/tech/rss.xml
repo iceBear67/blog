@@ -10,6 +10,7 @@
         <category>tech,linux</category>
         <category>tech</category>
         <category>life memories</category>
+        <category>life summary</category>
         <item>
             <guid isPermalink="true">https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/</guid>
             <title>浅谈 Java 虚拟机是如何标识垃圾的</title>
