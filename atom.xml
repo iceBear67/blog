@@ -74,27 +74,6 @@
   </entry>
   
   <entry>
-    <title>修复 Intellij IDEA 无法使用中文输入法</title>
-    <link href="https://nstd.sfclub.cc/2021/07/18/Idea/"/>
-    <id>https://nstd.sfclub.cc/2021/07/18/Idea/</id>
-    <published>2021-07-18T05:51:17.000Z</published>
-    <updated>2021-07-18T11:16:06.778Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;踩坑记录  &lt;/p&gt;
-&lt;h1 id=&quot;TL-DR&quot;&gt;&lt;a href=&quot;#TL-DR&quot; class=&quot;headerlink&quot; title=&quot;TL;DR&quot;&gt;&lt;/a&gt;TL;DR&lt;/h1&gt;&lt;p&gt;系统: ArchLinux&lt;br&gt;一切的大前提: 环境变量设置正确(GTK_IM_MODULE…)  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;ibus 用户可以试试迁移到 fcitx&lt;/li&gt;
-&lt;li&gt;fcitx 如果不行可能得自己编译一个 patched 的 JetBrains Runtime</summary>
-    
-    
-    
-    
-    <category term="idea,fcitx,ibus" scheme="https://nstd.sfclub.cc/tags/idea-fcitx-ibus/"/>
-    
-  </entry>
-  
-  <entry>
     <title>使用 cproxy 对程序进行透明代理</title>
     <link href="https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
     <id>https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
