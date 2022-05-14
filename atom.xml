@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2022-03-05T13:20:25.964Z</updated>
+  <updated>2022-02-10T13:26:32.881Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>现代 Java 入门指北</title>
-    <link href="https://nstd.sfclub.cc/2022/03/05/Meeting-With-Modern-Java/"/>
-    <id>https://nstd.sfclub.cc/2022/03/05/Meeting-With-Modern-Java/</id>
-    <published>2022-03-05T13:07:55.000Z</published>
-    <updated>2022-03-05T13:20:25.964Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;一天，你坐在办公桌上开始编写新的项目，而为了写起来方便，你开始往项目里添加工具依赖。 </summary>
-        
-      
-    
-    
-    
-    
-    <category term="tech" scheme="https://nstd.sfclub.cc/tags/tech/"/>
-    
-    <category term="java" scheme="https://nstd.sfclub.cc/tags/java/"/>
-    
-  </entry>
   
   <entry>
     <title>关于提问与回答</title>
