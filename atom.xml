@@ -6,7 +6,7 @@
   <link href="https://nstd.sfclub.cc/atom.xml" rel="self"/>
   
   <link href="https://nstd.sfclub.cc/"/>
-  <updated>2022-02-10T13:26:32.881Z</updated>
+  <updated>2022-03-11T13:40:47.331Z</updated>
   <id>https://nstd.sfclub.cc/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你认识我吗？</title>
+    <link href="https://nstd.sfclub.cc/2022/03/11/About-IceBear/"/>
+    <id>https://nstd.sfclub.cc/2022/03/11/About-IceBear/</id>
+    <published>2022-03-11T11:15:07.000Z</published>
+    <updated>2022-03-11T13:40:47.331Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;徘徊许久，终于还是打算写下这篇没必要的文章。  &lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>现代 Java 入门指北</title>
+    <link href="https://nstd.sfclub.cc/2022/03/05/Meeting-With-Modern-Java/"/>
+    <id>https://nstd.sfclub.cc/2022/03/05/Meeting-With-Modern-Java/</id>
+    <published>2022-03-05T13:07:55.000Z</published>
+    <updated>2022-03-05T13:20:25.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一天，你坐在办公桌上开始编写新的项目，而为了写起来方便，你开始往项目里添加工具依赖。 </summary>
+        
+      
+    
+    
+    
+    
+    <category term="tech" scheme="https://nstd.sfclub.cc/tags/tech/"/>
+    
+    <category term="java" scheme="https://nstd.sfclub.cc/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>关于提问与回答</title>
@@ -38,7 +78,7 @@
     <link href="https://nstd.sfclub.cc/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>https://nstd.sfclub.cc/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
     <published>2022-02-09T06:16:45.000Z</published>
-    <updated>2022-02-09T06:28:33.555Z</updated>
+    <updated>2022-03-05T13:20:27.937Z</updated>
     
     
     <summary type="html">&lt;p&gt;2022 早就来了，但是我的年终总结推迟了好些时候才开始写。如果是在之前的话，我大概新年一到就很迫切的把去年发生了什么事通通写下来的。&lt;/p&gt;</summary>
@@ -46,7 +86,9 @@
     
     
     
-    <category term="life summary" scheme="https://nstd.sfclub.cc/tags/life-summary/"/>
+    <category term="life" scheme="https://nstd.sfclub.cc/tags/life/"/>
+    
+    <category term="summary" scheme="https://nstd.sfclub.cc/tags/summary/"/>
     
   </entry>
   
@@ -55,7 +97,7 @@
     <link href="https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/"/>
     <id>https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/</id>
     <published>2021-11-05T15:20:16.000Z</published>
-    <updated>2021-11-05T16:30:57.363Z</updated>
+    <updated>2022-03-05T13:20:20.644Z</updated>
     
     
     <summary type="html">&lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
@@ -74,7 +116,7 @@
     <link href="https://nstd.sfclub.cc/2021/10/12/Windy-Day/"/>
     <id>https://nstd.sfclub.cc/2021/10/12/Windy-Day/</id>
     <published>2021-10-12T09:01:14.000Z</published>
-    <updated>2021-10-12T09:59:27.864Z</updated>
+    <updated>2022-03-05T13:20:22.304Z</updated>
     
     
     <summary type="html">&lt;p&gt;深夜了。&lt;/p&gt;
@@ -86,7 +128,9 @@
     
     
     
-    <category term="life memories" scheme="https://nstd.sfclub.cc/tags/life-memories/"/>
+    <category term="life" scheme="https://nstd.sfclub.cc/tags/life/"/>
+    
+    <category term="memories" scheme="https://nstd.sfclub.cc/tags/memories/"/>
     
   </entry>
   
@@ -112,7 +156,7 @@
     <link href="https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
     <id>https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
     <published>2021-03-13T14:57:30.000Z</published>
-    <updated>2021-03-14T02:31:06.373Z</updated>
+    <updated>2022-03-05T13:20:25.174Z</updated>
     
     
     <summary type="html">&lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;</summary>
@@ -120,7 +164,9 @@
     
     
     
-    <category term="tech,linux" scheme="https://nstd.sfclub.cc/tags/tech-linux/"/>
+    <category term="tech" scheme="https://nstd.sfclub.cc/tags/tech/"/>
+    
+    <category term="linux" scheme="https://nstd.sfclub.cc/tags/linux/"/>
     
   </entry>
   

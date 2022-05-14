@@ -1,22 +1,25 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>nstd::out • Posts by &#34;tech,linux&#34; tag</title>
+        <title>nstd::out • Posts by &#34;linux&#34; tag</title>
         <link>https://nstd.sfclub.cc</link>
         <description>iceBear 的博客</description>
         <language>zh-CN</language>
         <pubDate>Sat, 13 Mar 2021 22:57:30 +0800</pubDate>
         <lastBuildDate>Sat, 13 Mar 2021 22:57:30 +0800</lastBuildDate>
-        <category>tech,linux</category>
         <category>tech</category>
-        <category>life memories</category>
-        <category>life summary</category>
         <category>misc</category>
+        <category>life</category>
+        <category>memories</category>
+        <category>linux</category>
+        <category>summary</category>
+        <category>java</category>
         <item>
             <guid isPermalink="true">https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</guid>
             <title>使用 cproxy 对程序进行透明代理</title>
             <link>https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</link>
-            <category>tech,linux</category>
+            <category>tech</category>
+            <category>linux</category>
             <pubDate>Sat, 13 Mar 2021 22:57:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;

@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nstd::out • All posts by \"java\" tag",
+    "description": "iceBear 的博客",
+    "home_page_url": "https://nstd.sfclub.cc",
+    "items": [
+        {
+            "id": "https://nstd.sfclub.cc/2022/03/05/Meeting-With-Modern-Java/",
+            "url": "https://nstd.sfclub.cc/2022/03/05/Meeting-With-Modern-Java/",
+            "title": "现代 Java 入门指北",
+            "date_published": "2022-03-05T13:07:55.000Z",
+            "content_html": "<p>一天，你坐在办公桌上开始编写新的项目，而为了写起来方便，你开始往项目里添加工具依赖。  </p>\n",
+            "tags": [
+                "tech",
+                "java"
+            ]
+        }
+    ]
+}
