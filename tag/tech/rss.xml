@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>nstd::out • Posts by &#34;tech&#34; tag</title>
-        <link>https://nstd.sfclub.cc</link>
+        <link>https://ib67.io</link>
         <description>iceBear 的博客</description>
         <language>zh-CN</language>
         <pubDate>Fri, 05 Nov 2021 23:20:16 +0800</pubDate>
@@ -13,9 +13,9 @@
         <category>linux</category>
         <category>summary</category>
         <item>
-            <guid isPermalink="true">https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/</guid>
+            <guid isPermalink="true">https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</guid>
             <title>浅谈 Java 虚拟机是如何标识垃圾的</title>
-            <link>https://nstd.sfclub.cc/2021/11/05/How-Does-Java-Tag-Garbages/</link>
+            <link>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</link>
             <category>tech</category>
             <pubDate>Fri, 05 Nov 2021 23:20:16 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
@@ -70,9 +70,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://nstd.sfclub.cc/2021/10/01/Writting-A-Compiler-1/</guid>
+            <guid isPermalink="true">https://ib67.io/2021/10/01/Writting-A-Compiler-1/</guid>
             <title>从零开始的编译器生涯</title>
-            <link>https://nstd.sfclub.cc/2021/10/01/Writting-A-Compiler-1/</link>
+            <link>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</link>
             <category>tech</category>
             <pubDate>Fri, 01 Oct 2021 22:12:37 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;近日一屑高二学生无聊动手写起了编译器….这是他的珍贵作战记录    &lt;/p&gt;
@@ -195,9 +195,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</guid>
+            <guid isPermalink="true">https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</guid>
             <title>使用 cproxy 对程序进行透明代理</title>
-            <link>https://nstd.sfclub.cc/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</link>
+            <link>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</link>
             <category>tech</category>
             <category>linux</category>
             <pubDate>Sat, 13 Mar 2021 22:57:30 +0800</pubDate>
