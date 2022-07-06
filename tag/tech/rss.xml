@@ -9,11 +9,11 @@
         <lastBuildDate>Fri, 05 Nov 2021 23:20:16 +0800</lastBuildDate>
         <category>life</category>
         <category>memories</category>
+        <category>compiler tech java</category>
         <category>tech</category>
         <category>misc</category>
         <category>linux</category>
         <category>summary</category>
-        <category>compiler tech java</category>
         <item>
             <guid isPermalink="true">https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</guid>
             <title>浅谈 Java 虚拟机是如何标识垃圾的</title>
