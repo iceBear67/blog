@@ -9,16 +9,19 @@
         <lastBuildDate>Wed, 06 Jul 2022 19:25:58 +0800</lastBuildDate>
         <category>life</category>
         <category>memories</category>
-        <category>compiler tech java</category>
         <category>tech</category>
         <category>misc</category>
         <category>linux</category>
         <category>summary</category>
+        <category>compiler</category>
+        <category>java</category>
         <item>
             <guid isPermalink="true">https://ib67.io/2022/07/06/Extending-Java-Compiler/</guid>
             <title>「9+」 Java 编译器插件教程 101</title>
             <link>https://ib67.io/2022/07/06/Extending-Java-Compiler/</link>
-            <category>compiler tech java</category>
+            <category>tech</category>
+            <category>compiler</category>
+            <category>java</category>
             <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;写了上万行 Java 代码，相比你已经对 Java “木纳呆板”的语法恨之入骨了。  &lt;/p&gt;
 &lt;p&gt;那么，有没有一种可能，我是说可能，我们可以给 Java 编译器写插件？&lt;/p&gt;
@@ -60,7 +63,7 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;配置-Service&#34;&gt;&lt;a href=&#34;#配置-Service&#34; class=&#34;headerlink&#34; title=&#34;配置 Service&#34;&gt;&lt;/a&gt;配置 Service&lt;/h2&gt;&lt;p&gt;Javac 通过 &lt;a href=&#34;https://www.baeldung.com/java-spi&#34;&gt;Java SPI&lt;/a&gt; 发现插件，因此你需要写一个 Service 文件让他能够发现你。&lt;/p&gt;
 &lt;p&gt;在 &lt;code&gt;src/main/resource/META-INF/services/com.source.util.Plugin&lt;/code&gt; 中写出：&lt;/p&gt;
-&lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;# 填写你的插件主类名，这是教程的例子。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;org.inlambda.kiwi.magic.plugin.KiwiJavacPlugin&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight vala&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;# 填写你的插件主类名，这是教程的例子。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;org.inlambda.kiwi.magic.plugin.KiwiJavacPlugin&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://upload.cc/i1/2022/07/06/Mxt7gB.png&#34; alt=&#34;File Location&#34;&gt;&lt;/p&gt;
 &lt;p&gt;但是还差一步。&lt;/p&gt;
