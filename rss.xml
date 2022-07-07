@@ -7,21 +7,21 @@
         <language>zh-CN</language>
         <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
         <lastBuildDate>Wed, 06 Jul 2022 19:25:58 +0800</lastBuildDate>
-        <category>life</category>
-        <category>memories</category>
-        <category>tech</category>
         <category>misc</category>
-        <category>linux</category>
-        <category>summary</category>
-        <category>compiler</category>
-        <category>java</category>
+        <category>编译器</category>
+        <category>技术</category>
+        <category>Java</category>
+        <category>日常</category>
+        <category>回忆</category>
+        <category>Linux</category>
+        <category>总结</category>
         <item>
             <guid isPermalink="true">https://ib67.io/2022/07/06/Extending-Java-Compiler/</guid>
             <title>「9+」 Java 编译器插件教程 101</title>
             <link>https://ib67.io/2022/07/06/Extending-Java-Compiler/</link>
-            <category>tech</category>
-            <category>compiler</category>
-            <category>java</category>
+            <category>编译器</category>
+            <category>技术</category>
+            <category>Java</category>
             <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;写了上万行 Java 代码，相比你已经对 Java “木纳呆板”的语法恨之入骨了。  &lt;/p&gt;
 &lt;p&gt;那么，有没有一种可能，我是说可能，我们可以给 Java 编译器写插件？&lt;/p&gt;
@@ -301,8 +301,8 @@
             <guid isPermalink="true">https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
             <title>2021 碎碎念</title>
             <link>https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
-            <category>life</category>
-            <category>summary</category>
+            <category>日常</category>
+            <category>总结</category>
             <pubDate>Wed, 09 Feb 2022 14:16:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;2022 早就来了，但是我的年终总结推迟了好些时候才开始写。如果是在之前的话，我大概新年一到就很迫切的把去年发生了什么事通通写下来的。&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -331,7 +331,7 @@
             <guid isPermalink="true">https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</guid>
             <title>浅谈 Java 虚拟机是如何标识垃圾的</title>
             <link>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</link>
-            <category>tech</category>
+            <category>技术</category>
             <pubDate>Fri, 05 Nov 2021 23:20:16 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
 &lt;p&gt;然而，真的是这样吗？即使有&lt;a href=&#34;https://malloc.se/blog/zgc-jdk16&#34;&gt;神一般高性能的垃圾回收器&lt;/a&gt;，我们写代码时仍然需要注意它是&lt;em&gt;如何标记垃圾对象&lt;/em&gt;的，因为垃圾回收器并不是万能的，仍然有一些工作需要程序员自己完成。  &lt;/p&gt;
@@ -388,8 +388,8 @@
             <guid isPermalink="true">https://ib67.io/2021/10/12/Windy-Day/</guid>
             <title>大风天</title>
             <link>https://ib67.io/2021/10/12/Windy-Day/</link>
-            <category>life</category>
-            <category>memories</category>
+            <category>日常</category>
+            <category>回忆</category>
             <pubDate>Tue, 12 Oct 2021 17:01:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;深夜了，大家早早的闭上了眼睛，期待着黎明的光芒把他们重新唤醒。&lt;/p&gt;
 &lt;p&gt;窗外，大风呼啸着。我躺在床上，静静地聆听风的呼声，冬天来了。  &lt;/p&gt;
@@ -436,7 +436,8 @@
             <guid isPermalink="true">https://ib67.io/2021/10/01/Writting-A-Compiler-1/</guid>
             <title>从零开始的编译器生涯</title>
             <link>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</link>
-            <category>tech</category>
+            <category>编译器</category>
+            <category>技术</category>
             <pubDate>Fri, 01 Oct 2021 22:12:37 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;近日一屑高二学生无聊动手写起了编译器….这是他的珍贵作战记录    &lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -561,8 +562,8 @@
             <guid isPermalink="true">https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</guid>
             <title>使用 cproxy 对程序进行透明代理</title>
             <link>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</link>
-            <category>tech</category>
-            <category>linux</category>
+            <category>技术</category>
+            <category>Linux</category>
             <pubDate>Sat, 13 Mar 2021 22:57:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;

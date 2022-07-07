@@ -6,7 +6,7 @@
   <link href="https://ib67.io/atom.xml" rel="self"/>
   
   <link href="https://ib67.io/"/>
-  <updated>2022-07-07T03:36:45.887Z</updated>
+  <updated>2022-07-07T03:54:40.258Z</updated>
   <id>https://ib67.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ib67.io/2022/07/06/Extending-Java-Compiler/"/>
     <id>https://ib67.io/2022/07/06/Extending-Java-Compiler/</id>
     <published>2022-07-06T11:25:58.000Z</published>
-    <updated>2022-07-07T03:36:45.887Z</updated>
+    <updated>2022-07-07T03:54:40.258Z</updated>
     
     
     <summary type="html">&lt;p&gt;写了上万行 Java 代码，相比你已经对 Java “木纳呆板”的语法恨之入骨了。  &lt;/p&gt;
@@ -29,12 +29,16 @@
     
     
     
+    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="教程" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="compiler" scheme="https://ib67.io/tags/compiler/"/>
     
-    <category term="java" scheme="https://ib67.io/tags/java/"/>
+    <category term="编译器" scheme="https://ib67.io/tags/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
+    
+    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Java" scheme="https://ib67.io/tags/Java/"/>
     
   </entry>
   
@@ -43,14 +47,14 @@
     <link href="https://ib67.io/2022/02/10/How-to-help-Others/"/>
     <id>https://ib67.io/2022/02/10/How-to-help-Others/</id>
     <published>2022-02-10T12:16:48.000Z</published>
-    <updated>2022-07-07T03:52:12.353Z</updated>
+    <updated>2022-07-07T03:56:37.347Z</updated>
     
     
     <summary type="html">&lt;p&gt;在「如何请求到他人的帮助来解决问题」上已经有许多优秀的&lt;a href=&quot;https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way&quot;&gt;指导文章&lt;/a&gt;，但在如何有效的帮助他人上似乎还是少了那么点东西。&lt;/p&gt;</summary>
     
     
     
-    <category term="writeup" scheme="https://ib67.io/categories/writeup/"/>
+    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
     
     
     <category term="misc" scheme="https://ib67.io/tags/misc/"/>
@@ -62,19 +66,19 @@
     <link href="https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
     <published>2022-02-09T06:16:45.000Z</published>
-    <updated>2022-07-07T03:52:48.127Z</updated>
+    <updated>2022-07-07T03:57:23.456Z</updated>
     
     
     <summary type="html">&lt;p&gt;2022 早就来了，但是我的年终总结推迟了好些时候才开始写。如果是在之前的话，我大概新年一到就很迫切的把去年发生了什么事通通写下来的。&lt;/p&gt;</summary>
     
     
     
-    <category term="article" scheme="https://ib67.io/categories/article/"/>
+    <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
     
     
-    <category term="life" scheme="https://ib67.io/tags/life/"/>
+    <category term="日常" scheme="https://ib67.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="summary" scheme="https://ib67.io/tags/summary/"/>
+    <category term="总结" scheme="https://ib67.io/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -83,7 +87,7 @@
     <link href="https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/"/>
     <id>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</id>
     <published>2021-11-05T15:20:16.000Z</published>
-    <updated>2022-07-07T03:52:06.200Z</updated>
+    <updated>2022-07-07T03:56:25.340Z</updated>
     
     
     <summary type="html">&lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
@@ -92,10 +96,10 @@
     
     
     
-    <category term="explaination" scheme="https://ib67.io/categories/explaination/"/>
+    <category term="阐述" scheme="https://ib67.io/categories/%E9%98%90%E8%BF%B0/"/>
     
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -104,7 +108,7 @@
     <link href="https://ib67.io/2021/10/12/Windy-Day/"/>
     <id>https://ib67.io/2021/10/12/Windy-Day/</id>
     <published>2021-10-12T09:01:14.000Z</published>
-    <updated>2022-07-07T03:52:30.993Z</updated>
+    <updated>2022-07-07T03:56:46.567Z</updated>
     
     
     <summary type="html">&lt;p&gt;深夜了，大家早早的闭上了眼睛，期待着黎明的光芒把他们重新唤醒。&lt;/p&gt;
@@ -116,12 +120,12 @@
     
     
     
-    <category term="article" scheme="https://ib67.io/categories/article/"/>
+    <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
     
     
-    <category term="life" scheme="https://ib67.io/tags/life/"/>
+    <category term="日常" scheme="https://ib67.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="memories" scheme="https://ib67.io/tags/memories/"/>
+    <category term="回忆" scheme="https://ib67.io/tags/%E5%9B%9E%E5%BF%86/"/>
     
   </entry>
   
@@ -130,19 +134,21 @@
     <link href="https://ib67.io/2021/10/01/Writting-A-Compiler-1/"/>
     <id>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</id>
     <published>2021-10-01T14:12:37.000Z</published>
-    <updated>2022-07-07T03:52:24.727Z</updated>
+    <updated>2022-07-07T03:57:40.116Z</updated>
     
     
     <summary type="html">&lt;p&gt;近日一屑高二学生无聊动手写起了编译器….这是他的珍贵作战记录    &lt;/p&gt;</summary>
     
     
     
-    <category term="writeup" scheme="https://ib67.io/categories/writeup/"/>
+    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
     
-    <category term="tutorial" scheme="https://ib67.io/categories/writeup/tutorial/"/>
+    <category term="教程" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="编译器" scheme="https://ib67.io/tags/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
+    
+    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -151,19 +157,19 @@
     <link href="https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
     <id>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
     <published>2021-03-13T14:57:30.000Z</published>
-    <updated>2022-07-07T03:51:46.513Z</updated>
+    <updated>2022-07-07T03:54:11.618Z</updated>
     
     
     <summary type="html">&lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;</summary>
     
     
     
-    <category term="tutorial" scheme="https://ib67.io/categories/tutorial/"/>
+    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="linux" scheme="https://ib67.io/tags/linux/"/>
+    <category term="Linux" scheme="https://ib67.io/tags/Linux/"/>
     
   </entry>
   

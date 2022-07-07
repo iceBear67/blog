@@ -7,21 +7,21 @@
         <language>zh-CN</language>
         <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
         <lastBuildDate>Wed, 06 Jul 2022 19:25:58 +0800</lastBuildDate>
-        <category>life</category>
-        <category>memories</category>
-        <category>tech</category>
         <category>misc</category>
-        <category>linux</category>
-        <category>summary</category>
-        <category>compiler</category>
-        <category>java</category>
+        <category>编译器</category>
+        <category>技术</category>
+        <category>Java</category>
+        <category>日常</category>
+        <category>回忆</category>
+        <category>Linux</category>
+        <category>总结</category>
         <item>
             <guid isPermalink="true">https://ib67.io/2022/07/06/Extending-Java-Compiler/</guid>
             <title>「9+」 Java 编译器插件教程 101</title>
             <link>https://ib67.io/2022/07/06/Extending-Java-Compiler/</link>
-            <category>tech</category>
-            <category>compiler</category>
-            <category>java</category>
+            <category>编译器</category>
+            <category>技术</category>
+            <category>Java</category>
             <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;写了上万行 Java 代码，相比你已经对 Java “木纳呆板”的语法恨之入骨了。  &lt;/p&gt;
 &lt;p&gt;那么，有没有一种可能，我是说可能，我们可以给 Java 编译器写插件？&lt;/p&gt;
