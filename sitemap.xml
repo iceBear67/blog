@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ib67.io/links/index.html</loc>
+    
+    <lastmod>2022-07-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</loc>
     
     <lastmod>2022-07-07</lastmod>
@@ -68,15 +77,6 @@
     <loc>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</loc>
     
     <lastmod>2022-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ib67.io/links/index.html</loc>
-    
-    <lastmod>2022-05-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
