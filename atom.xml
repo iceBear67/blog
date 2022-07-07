@@ -43,12 +43,14 @@
     <link href="https://ib67.io/2022/02/10/How-to-help-Others/"/>
     <id>https://ib67.io/2022/02/10/How-to-help-Others/</id>
     <published>2022-02-10T12:16:48.000Z</published>
-    <updated>2022-03-05T13:20:26.880Z</updated>
+    <updated>2022-07-07T03:52:12.353Z</updated>
     
     
     <summary type="html">&lt;p&gt;在「如何请求到他人的帮助来解决问题」上已经有许多优秀的&lt;a href=&quot;https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way&quot;&gt;指导文章&lt;/a&gt;，但在如何有效的帮助他人上似乎还是少了那么点东西。&lt;/p&gt;</summary>
     
     
+    
+    <category term="writeup" scheme="https://ib67.io/categories/writeup/"/>
     
     
     <category term="misc" scheme="https://ib67.io/tags/misc/"/>
@@ -60,12 +62,14 @@
     <link href="https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
     <published>2022-02-09T06:16:45.000Z</published>
-    <updated>2022-03-05T13:20:27.937Z</updated>
+    <updated>2022-07-07T03:52:48.127Z</updated>
     
     
     <summary type="html">&lt;p&gt;2022 早就来了，但是我的年终总结推迟了好些时候才开始写。如果是在之前的话，我大概新年一到就很迫切的把去年发生了什么事通通写下来的。&lt;/p&gt;</summary>
     
     
+    
+    <category term="article" scheme="https://ib67.io/categories/article/"/>
     
     
     <category term="life" scheme="https://ib67.io/tags/life/"/>
@@ -79,7 +83,7 @@
     <link href="https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/"/>
     <id>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</id>
     <published>2021-11-05T15:20:16.000Z</published>
-    <updated>2022-03-05T13:20:20.644Z</updated>
+    <updated>2022-07-07T03:52:06.200Z</updated>
     
     
     <summary type="html">&lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
@@ -87,6 +91,8 @@
 &lt;p&gt;本文试图通俗易懂的讲解 JVM 上标记垃圾的方法，如有错误请在评论区指正。&lt;/p&gt;</summary>
     
     
+    
+    <category term="explaination" scheme="https://ib67.io/categories/explaination/"/>
     
     
     <category term="tech" scheme="https://ib67.io/tags/tech/"/>
@@ -98,7 +104,7 @@
     <link href="https://ib67.io/2021/10/12/Windy-Day/"/>
     <id>https://ib67.io/2021/10/12/Windy-Day/</id>
     <published>2021-10-12T09:01:14.000Z</published>
-    <updated>2022-07-06T13:04:11.703Z</updated>
+    <updated>2022-07-07T03:52:30.993Z</updated>
     
     
     <summary type="html">&lt;p&gt;深夜了，大家早早的闭上了眼睛，期待着黎明的光芒把他们重新唤醒。&lt;/p&gt;
@@ -109,6 +115,8 @@
 &lt;p&gt;我听着他们的声音安稳的睡了一觉。&lt;/p&gt;</summary>
     
     
+    
+    <category term="article" scheme="https://ib67.io/categories/article/"/>
     
     
     <category term="life" scheme="https://ib67.io/tags/life/"/>
@@ -122,12 +130,16 @@
     <link href="https://ib67.io/2021/10/01/Writting-A-Compiler-1/"/>
     <id>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</id>
     <published>2021-10-01T14:12:37.000Z</published>
-    <updated>2022-07-07T03:33:40.054Z</updated>
+    <updated>2022-07-07T03:52:24.727Z</updated>
     
     
     <summary type="html">&lt;p&gt;近日一屑高二学生无聊动手写起了编译器….这是他的珍贵作战记录    &lt;/p&gt;</summary>
     
     
+    
+    <category term="writeup" scheme="https://ib67.io/categories/writeup/"/>
+    
+    <category term="tutorial" scheme="https://ib67.io/categories/writeup/tutorial/"/>
     
     
     <category term="tech" scheme="https://ib67.io/tags/tech/"/>
@@ -139,12 +151,14 @@
     <link href="https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
     <id>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
     <published>2021-03-13T14:57:30.000Z</published>
-    <updated>2022-03-05T13:20:25.174Z</updated>
+    <updated>2022-07-07T03:51:46.513Z</updated>
     
     
     <summary type="html">&lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;</summary>
     
     
+    
+    <category term="tutorial" scheme="https://ib67.io/categories/tutorial/"/>
     
     
     <category term="tech" scheme="https://ib67.io/tags/tech/"/>
