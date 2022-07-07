@@ -6,7 +6,7 @@
   <link href="https://ib67.io/atom.xml" rel="self"/>
   
   <link href="https://ib67.io/"/>
-  <updated>2022-07-07T03:54:40.258Z</updated>
+  <updated>2022-07-07T04:16:56.870Z</updated>
   <id>https://ib67.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ib67.io/2022/07/06/Extending-Java-Compiler/"/>
     <id>https://ib67.io/2022/07/06/Extending-Java-Compiler/</id>
     <published>2022-07-06T11:25:58.000Z</published>
-    <updated>2022-07-07T03:54:40.258Z</updated>
+    <updated>2022-07-07T04:16:56.870Z</updated>
     
     
     <summary type="html">&lt;p&gt;写了上万行 Java 代码，相比你已经对 Java “木纳呆板”的语法恨之入骨了。  &lt;/p&gt;
@@ -31,7 +31,7 @@
     
     <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
     
-    <category term="教程" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
     <category term="编译器" scheme="https://ib67.io/tags/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
