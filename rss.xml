@@ -5,8 +5,8 @@
         <link>https://ib67.io</link>
         <description>iceBear 的博客</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
-        <lastBuildDate>Wed, 06 Jul 2022 19:25:58 +0800</lastBuildDate>
+        <pubDate>Fri, 19 Aug 2022 21:57:31 +0800</pubDate>
+        <lastBuildDate>Fri, 19 Aug 2022 21:57:31 +0800</lastBuildDate>
         <category>编译器</category>
         <category>技术</category>
         <category>Java</category>
@@ -14,6 +14,64 @@
         <category>回忆</category>
         <category>Linux</category>
         <category>总结</category>
+        <item>
+            <guid isPermalink="true">https://ib67.io/2022/08/19/From-GitHub-To-Github/</guid>
+            <title>尝鲜 CodeBerg : &#34;非主流&#34; Git 服务现状</title>
+            <link>https://ib67.io/2022/08/19/From-GitHub-To-Github/</link>
+            <pubDate>Fri, 19 Aug 2022 21:57:31 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;在今年六月的时候，SCF 发了一篇关于放弃 GitHub 的&lt;a href=&#34;https://sfconservancy.org/GiveUpGitHub/&#34;&gt;长文&lt;/a&gt;，把人煽的热血沸腾的。  &lt;/p&gt;
+&lt;p&gt;正好，这篇文章提供了一些 GitHub 的 “代替品”，我打算试一试。  &lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;p&gt;SCF 推荐了两个服务：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeberg.org/&#34;&gt;CodeBerg&lt;/a&gt; – 公开的 Gitea 实例，前身是 Teapod.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcehut.org/&#34;&gt;SourceHut&lt;/a&gt; – 貌似很久以前就有了，但是成为 Maintainer 要花钱订阅，Collaborator 不用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因为只是尝鲜，就没有去看 SourceHut 了，所以用的是 CodeBerg.&lt;/p&gt;
+&lt;h1 id=&#34;登陆&#34;&gt;&lt;a href=&#34;#登陆&#34; class=&#34;headerlink&#34; title=&#34;登陆&#34;&gt;&lt;/a&gt;登陆&lt;/h1&gt;&lt;p&gt;估计是因为 Gitea 的原因，Codeberg 很多地方都和 GitHub 相似。此外，他们还提供了类似 &lt;code&gt;GitHub Pages&lt;/code&gt; 的 &lt;code&gt;CodeBerg Pages&lt;/code&gt; 服务，这点要点个赞！&lt;/p&gt;
+&lt;p&gt;CodeBerg 访问起来快很多，大概是因为还没受到 GFW 的恩爱吧。不过 Pages 服务对比起绑定了域名的 &lt;code&gt;GitHub Pages&lt;/code&gt; 就有点不够意思了。&lt;/p&gt;
+&lt;p&gt;还支持暗色主题！&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;整体来说体验和自建 Gitea 其实差不多，自己建的 Gitea 也有 WebAuthn 支持这些有意思的东西，无非 SLA 问题。&lt;/p&gt;
+&lt;p&gt;官方还提供了一些文档，貌似写得很详细，而且还考虑到了不会使用 Git 的人群。虽然 GitHub 也有，不过我还没去看过，就不做比较了。&lt;/p&gt;
+&lt;h1 id=&#34;项目迁移&#34;&gt;&lt;a href=&#34;#项目迁移&#34; class=&#34;headerlink&#34; title=&#34;项目迁移&#34;&gt;&lt;/a&gt;项目迁移&lt;/h1&gt;&lt;p&gt;登陆后做的第一件事情就是迁移项目到 CodeBerg 上。支持的迁移来源很多，其中也包括 GitHub。&lt;/p&gt;
+&lt;p&gt;但是没有那么简单，由于项目体量稍微大了一点点，很快就触发了 Rate-Limit 导致无法顺利迁移。用多几个 UserToken 也无济于事&lt;/p&gt;
+&lt;p&gt;那怎么办？只能自己手动迁移了呗… 迁移代码不算什么难事，直接往新的仓库 push 即可，问题是仓库的&lt;code&gt;元数据&lt;/code&gt;们——&lt;code&gt;issues&lt;/code&gt;，&lt;code&gt;pull requests&lt;/code&gt; 和 &lt;code&gt;webhooks&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;Issues-和-PRs&#34;&gt;&lt;a href=&#34;#Issues-和-PRs&#34; class=&#34;headerlink&#34; title=&#34;Issues 和 PRs&#34;&gt;&lt;/a&gt;Issues 和 PRs&lt;/h2&gt;&lt;p&gt;在 GitHub 上的仓库已经一百多个 Issue 了，无论是 Open 还是 Closed 都有必要迁移。虽然 Codeberg 提供了把 issues 页面重定向的设置，但是我觉得还是放在 CodeBerg 上比较好，毕竟我没有 Jira。&lt;/p&gt;
+&lt;p&gt;一个一个迁移显然不太可能，还好我搜索一会儿就找到了 Gitea 官方早些年放出来的工具&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitea.com/gitea/migrator&#34;&gt;https://gitea.com/gitea/migrator&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Migrator&lt;/strong&gt;    &lt;/p&gt;
+&lt;p&gt;Migrator is a library and a command line tool, which allow to migrate all repositories data from github/gitlab/gitea/bitbucket to gitea&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;虽然已经很老旧了，但是完全可以用，比较可惜的是时间信息全部丢失了..&lt;/p&gt;
+&lt;h2 id=&#34;WebHooks&#34;&gt;&lt;a href=&#34;#WebHooks&#34; class=&#34;headerlink&#34; title=&#34;WebHooks&#34;&gt;&lt;/a&gt;WebHooks&lt;/h2&gt;&lt;p&gt;CodeBerg 支持若干 WebHook，类型多的有点让人出乎意料。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/Xjx5Cj9/image.png&#34; alt=&#34;Type of webhooks&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最出乎意料的是，它的 &lt;code&gt;Gitea&lt;/code&gt; 钩子竟然和我专门为 GitHub 设计的 WebHook Bot 完美兼容…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/Jcz4vmY/image.png&#34; alt=&#34;Screenshot of my bot&#34;&gt;&lt;/p&gt;
+&lt;p&gt;总的来说，这块支持真的比 GitHub 要好很多了。&lt;/p&gt;
+&lt;h1 id=&#34;集成&#34;&gt;&lt;a href=&#34;#集成&#34; class=&#34;headerlink&#34; title=&#34;集成&#34;&gt;&lt;/a&gt;集成&lt;/h1&gt;&lt;p&gt;现在稍大一点的项目都已经用 CI 做检查和自动构建了，要是没有 CI 支持就太难受了。&lt;/p&gt;
+&lt;p&gt;在以前 GitHub 还没推出 &lt;code&gt;Actions&lt;/code&gt; 的时代，可以用 &lt;code&gt;Circle CI&lt;/code&gt;, &lt;code&gt;Travis CI&lt;/code&gt;, &lt;code&gt;Appyevor&lt;/code&gt; 接入 GitHub 来达到目的。然而，这些供应商没有一个支持 Gitea 的，&lt;code&gt;Appyevor&lt;/code&gt; 也只不过自建的实例支持。&lt;/p&gt;
+&lt;p&gt;很好理解，但是 CodeBerg 也在其中，也就是说这些服务统统与 CodeBerg 用户无缘…&lt;/p&gt;
+&lt;p&gt;如果你是那类喜欢使用自动 Code Review 的人，想必会非常痛苦。不过还好，我摸索着找到了两个支持配合 Gitea 用的 CI：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://buildkite.com/&#34;&gt;BuildKite&lt;/a&gt; – 虽然是免费，但是 Agent 要自己出，平台只是聚合结果做处理之类的。此外，不能直接接入，需要自己写点胶水。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codeberg.org/Codeberg-CI&#34;&gt;CodeBerg CI&lt;/a&gt; – 只支持 CodeBerg&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;BuildKite&lt;/strong&gt; 虽然用着也不错，但是跑构建的机器还是要自己出的。这似乎也和自建 Jenkins 没有什么区别，不过理论上来说更加安全了，而且 CI 文件之类的是平台在提供支持，让你跑的 &lt;code&gt;Agent&lt;/code&gt; 本质上就是一个 Remote Shell。&lt;/p&gt;
+&lt;p&gt;而 &lt;strong&gt;CodeBerg CI&lt;/strong&gt; 则是 Codeberg 平台提供支持，免费。但仍在内测。能够满足基本的 CI 需求，但是总体用起来远不如 &lt;code&gt;GitHub Action&lt;/code&gt;，用起来给人一种和项目割裂开的感觉。&lt;/p&gt;
+&lt;h1 id=&#34;生态&#34;&gt;&lt;a href=&#34;#生态&#34; class=&#34;headerlink&#34; title=&#34;生态&#34;&gt;&lt;/a&gt;生态&lt;/h1&gt;&lt;p&gt;在使用一周 CodeBerg 后我就有了放弃的念头。虽然它很优秀，但是世界的中心是 GitHub，要不是 SCF 的长文我现在还不知道 CodeBerg呢。&lt;/p&gt;
+&lt;p&gt;就比如说，我的博客托管在 Vercel 上，而 Vercel 的 Git 接入恰好就只支持 GitHub.&lt;br&gt;或者说，我的项目在 Circle CI 上构建，而 Circle CI 只支持 Github/BitBucket/GitLab.&lt;br&gt;又或者说，我的一些 Bot 在 GitHub 上，而且没法很好的迁移到 CodeBerg 上。&lt;/p&gt;
+&lt;h1 id=&#34;END&#34;&gt;&lt;a href=&#34;#END&#34; class=&#34;headerlink&#34; title=&#34;END&#34;&gt;&lt;/a&gt;END&lt;/h1&gt;&lt;p&gt;总的来说，我觉得 CodeBerg 还是蛮不错的，只是我最后还是回归到了 GitHub 上。  &lt;/p&gt;
+&lt;p&gt;对于单纯想托管一个项目，或者喜欢数据隐私安全感的人来说，CodeBerg 确实是一个不错的选择，并且因为 SCF 的那篇长文，最近还挺多人涌进去的，没准就有你熟悉的某些开源项目。&lt;/p&gt;
+&lt;p&gt;除了 CodeBerg 之外，还有很多&lt;strong&gt;公开&lt;/strong&gt; Gitea 实例也和 CodeBerg 面临着几乎是一模一样的问题。虽然他们都可以满足代码协作的需求，但是还是差那么一点意思。&lt;/p&gt;
+&lt;p&gt;end.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;明年就高考了，之后应该很少出文了，反正出了也没人看。&lt;/p&gt;
+&lt;p&gt;这篇虽然没什么内容，不过就当作水文凑且看看吧。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://ib67.io/2022/07/06/Extending-Java-Compiler/</guid>
             <title>「9+」 Java 编译器插件教程 101</title>
