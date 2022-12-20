@@ -7,18 +7,22 @@
         <language>zh-CN</language>
         <pubDate>Sat, 13 Mar 2021 22:57:30 +0800</pubDate>
         <lastBuildDate>Sat, 13 Mar 2021 22:57:30 +0800</lastBuildDate>
-        <category>编译器</category>
-        <category>技术</category>
+        <category>compiler</category>
+        <category>tech</category>
         <category>Java</category>
+        <category>minecraft</category>
+        <category>minestom</category>
+        <category>guide</category>
         <category>日常</category>
         <category>回忆</category>
         <category>Linux</category>
-        <category>总结</category>
+        <category>misc</category>
+        <category>summary</category>
         <item>
             <guid isPermalink="true">https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</guid>
             <title>使用 cproxy 对程序进行透明代理</title>
             <link>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</link>
-            <category>技术</category>
+            <category>tech</category>
             <category>Linux</category>
             <pubDate>Sat, 13 Mar 2021 22:57:30 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;

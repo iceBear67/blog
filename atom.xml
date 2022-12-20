@@ -6,7 +6,7 @@
   <link href="https://ib67.io/atom.xml" rel="self"/>
   
   <link href="https://ib67.io/"/>
-  <updated>2022-08-19T15:02:17.949Z</updated>
+  <updated>2022-12-20T00:55:07.117Z</updated>
   <id>https://ib67.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>上手 Minestom: 新时代 Minecraft 服务端实现</title>
+    <link href="https://ib67.io/2022/12/19/Getting-Started-With-Minestom/"/>
+    <id>https://ib67.io/2022/12/19/Getting-Started-With-Minestom/</id>
+    <published>2022-12-19T13:20:35.000Z</published>
+    <updated>2022-12-20T00:55:07.117Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;笔者观望 &lt;a href=&quot;https://github.com/Minestom/Minestom&quot;&gt;Minestom&lt;/a&gt; 已经有一段时间了. 以前他的线程模型还不够成熟, 曾经联系 @TheMode 想帮他翻译那块的文档结果鸽了.&lt;br&gt;正好, 今天摸鱼的时候看了一眼 Minestom 官方, 发觉现在或许是时候上手尝试一下了.&lt;/p&gt;
+&lt;p&gt;简中圈子里吹 Minestom 的很多, 然而真正上手 / 普及 Minestom 开发的很少. 官方文档已经足够详尽, 因此本篇博文只作引路贴, 希望对 Minestom 感兴趣的你自己上手尝试.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="minecraft" scheme="https://ib67.io/tags/minecraft/"/>
+    
+    <category term="minestom" scheme="https://ib67.io/tags/minestom/"/>
+    
+    <category term="guide" scheme="https://ib67.io/tags/guide/"/>
+    
+  </entry>
+  
+  <entry>
     <title>尝鲜 CodeBerg : &quot;非主流&quot; Git 服务现状</title>
     <link href="https://ib67.io/2022/08/19/From-GitHub-To-Github/"/>
     <id>https://ib67.io/2022/08/19/From-GitHub-To-Github/</id>
     <published>2022-08-19T13:57:31.000Z</published>
-    <updated>2022-08-19T15:02:17.949Z</updated>
+    <updated>2022-12-20T00:30:19.870Z</updated>
     
     
     <summary type="html">&lt;p&gt;在今年六月的时候，SCF 发了一篇关于放弃 GitHub 的&lt;a href=&quot;https://sfconservancy.org/GiveUpGitHub/&quot;&gt;长文&lt;/a&gt;，把人煽的热血沸腾的。  &lt;/p&gt;
@@ -39,7 +63,7 @@
     <link href="https://ib67.io/2022/07/06/Extending-Java-Compiler/"/>
     <id>https://ib67.io/2022/07/06/Extending-Java-Compiler/</id>
     <published>2022-07-06T11:25:58.000Z</published>
-    <updated>2022-07-07T04:16:56.870Z</updated>
+    <updated>2022-12-20T00:47:10.456Z</updated>
     
     
     <summary type="html">&lt;p&gt;写了上万行 Java 代码，相比你已经对 Java “木纳呆板”的语法恨之入骨了。  &lt;/p&gt;
@@ -52,9 +76,9 @@
     <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="编译器" scheme="https://ib67.io/tags/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
+    <category term="compiler" scheme="https://ib67.io/tags/compiler/"/>
     
-    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
     
     <category term="Java" scheme="https://ib67.io/tags/Java/"/>
     
@@ -65,7 +89,7 @@
     <link href="https://ib67.io/2022/02/10/How-to-help-Others/"/>
     <id>https://ib67.io/2022/02/10/How-to-help-Others/</id>
     <published>2022-02-10T12:16:48.000Z</published>
-    <updated>2022-07-07T03:58:10.616Z</updated>
+    <updated>2022-12-20T00:30:19.870Z</updated>
     
     
     <summary type="html">&lt;p&gt;在「如何请求到他人的帮助来解决问题」上已经有许多优秀的&lt;a href=&quot;https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way&quot;&gt;指导文章&lt;/a&gt;，但在如何有效的帮助他人上似乎还是少了那么点东西。&lt;/p&gt;</summary>
@@ -82,7 +106,7 @@
     <link href="https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
     <published>2022-02-09T06:16:45.000Z</published>
-    <updated>2022-07-07T03:57:23.456Z</updated>
+    <updated>2022-12-20T00:47:24.816Z</updated>
     
     
     <summary type="html">&lt;p&gt;2022 早就来了，但是我的年终总结推迟了好些时候才开始写。如果是在之前的话，我大概新年一到就很迫切的把去年发生了什么事通通写下来的。&lt;/p&gt;</summary>
@@ -92,9 +116,9 @@
     <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
     
     
-    <category term="日常" scheme="https://ib67.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="misc" scheme="https://ib67.io/tags/misc/"/>
     
-    <category term="总结" scheme="https://ib67.io/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="summary" scheme="https://ib67.io/tags/summary/"/>
     
   </entry>
   
@@ -103,7 +127,7 @@
     <link href="https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/"/>
     <id>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</id>
     <published>2021-11-05T15:20:16.000Z</published>
-    <updated>2022-07-07T03:56:25.340Z</updated>
+    <updated>2022-12-20T00:47:41.112Z</updated>
     
     
     <summary type="html">&lt;p&gt;Java 作为一门 VM 语言，它的垃圾回收机制确实帮我们省了很多事情，我们不再需要去”手动管理内存的分配和释放”，只需要交给 VM 来做就好了。  &lt;/p&gt;
@@ -115,7 +139,7 @@
     <category term="阐述" scheme="https://ib67.io/categories/%E9%98%90%E8%BF%B0/"/>
     
     
-    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
     
   </entry>
   
@@ -124,7 +148,7 @@
     <link href="https://ib67.io/2021/10/12/Windy-Day/"/>
     <id>https://ib67.io/2021/10/12/Windy-Day/</id>
     <published>2021-10-12T09:01:14.000Z</published>
-    <updated>2022-10-29T00:13:04.379Z</updated>
+    <updated>2022-12-20T00:30:19.870Z</updated>
     
     
     <summary type="html">&lt;p&gt;深夜了。&lt;/p&gt;</summary>
@@ -145,7 +169,7 @@
     <link href="https://ib67.io/2021/10/01/Writting-A-Compiler-1/"/>
     <id>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</id>
     <published>2021-10-01T14:12:37.000Z</published>
-    <updated>2022-07-07T04:18:07.860Z</updated>
+    <updated>2022-12-20T00:48:14.959Z</updated>
     
     
     <summary type="html">&lt;p&gt;近日一屑高二学生无聊动手写起了编译器….这是他的珍贵作战记录    &lt;/p&gt;</summary>
@@ -157,9 +181,9 @@
     <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="编译器" scheme="https://ib67.io/tags/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
+    <category term="compiler" scheme="https://ib67.io/tags/compiler/"/>
     
-    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
     
   </entry>
   
@@ -168,7 +192,7 @@
     <link href="https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
     <id>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
     <published>2021-03-13T14:57:30.000Z</published>
-    <updated>2022-07-07T03:54:11.618Z</updated>
+    <updated>2022-12-20T00:47:14.589Z</updated>
     
     
     <summary type="html">&lt;p&gt;在 Windows 下，说到 &lt;code&gt;透明代理&lt;/code&gt; ，你可能会想到 &lt;code&gt;Proxifier&lt;/code&gt; , &lt;code&gt;SSTap&lt;/code&gt;, &lt;code&gt;Mellow&lt;/code&gt;&lt;br&gt;但在 Linux 下，你可能会想到 &lt;code&gt;proxychains&lt;/code&gt; 然后再想到 &lt;code&gt;proxychains&lt;/code&gt; 不能代理 static-linked 的程序。  &lt;/p&gt;</summary>
@@ -178,30 +202,9 @@
     <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="技术" scheme="https://ib67.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
     
     <category term="Linux" scheme="https://ib67.io/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://ib67.io/2021/03/12/hello-world/"/>
-    <id>https://ib67.io/2021/03/12/hello-world/</id>
-    <published>2021-03-12T14:43:58.173Z</published>
-    <updated>2021-03-12T16:47:48.315Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;你好, Hexo！&lt;br&gt;折腾了一个晚上，我终于还是回到 Hexo 的怀抱了。&lt;br&gt;接下来会陆陆续续更新一些杂文，并且把我在 Lxnet 发布的那几篇文章搬一下，欢迎 &lt;a</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
