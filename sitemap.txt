@@ -1,3 +1,4 @@
+https://ib67.io/2021/10/12/Windy-Day/
 https://ib67.io/2022/12/19/Getting-Started-With-Minestom/
 https://ib67.io/2021/10/01/Writting-A-Compiler-1/
 https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/
@@ -6,19 +7,18 @@ https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F
 https://ib67.io/2022/07/06/Extending-Java-Compiler/
 https://ib67.io/2022/08/19/From-GitHub-To-Github/
 https://ib67.io/2022/02/10/How-to-help-Others/
-https://ib67.io/2021/10/12/Windy-Day/
 https://ib67.io/about/index.html
-https://ib67.io/links/index.html
 https://ib67.io/%E7%A9%BA%E8%B0%83%E6%88%BF/index.html
+https://ib67.io/links/index.html
 https://ib67.io/
+https://ib67.io/tags/memories/
 https://ib67.io/tags/compiler/
 https://ib67.io/tags/tech/
 https://ib67.io/tags/Java/
 https://ib67.io/tags/minecraft/
 https://ib67.io/tags/minestom/
 https://ib67.io/tags/guide/
-https://ib67.io/tags/%E6%97%A5%E5%B8%B8/
-https://ib67.io/tags/%E5%9B%9E%E5%BF%86/
+https://ib67.io/tags/daily/
 https://ib67.io/tags/Linux/
 https://ib67.io/tags/misc/
 https://ib67.io/tags/summary/
