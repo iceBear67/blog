@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ib67.io/2022/07/06/Extending-Java-Compiler/</loc>
+    
+    <lastmod>2023-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ib67.io/2021/10/12/Windy-Day/</loc>
     
     <lastmod>2022-12-20</lastmod>
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2022/07/06/Extending-Java-Compiler/</loc>
-    
-    <lastmod>2022-12-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ib67.io/2022/08/19/From-GitHub-To-Github/</loc>
     
     <lastmod>2022-12-20</lastmod>
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/%E7%A9%BA%E8%B0%83%E6%88%BF/index.html</loc>
+    <loc>https://ib67.io/links/index.html</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/links/index.html</loc>
+    <loc>https://ib67.io/%E7%A9%BA%E8%B0%83%E6%88%BF/index.html</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -112,85 +112,85 @@
 
   <url>
     <loc>https://ib67.io/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://ib67.io/tags/memories/</loc>
-    <lastmod>2023-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ib67.io/tags/compiler/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/tech/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/Java/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/minecraft/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/minestom/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/guide/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/daily/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ib67.io/tags/memories/</loc>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/Linux/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/misc/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/tags/summary/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -199,28 +199,28 @@
   
   <url>
     <loc>https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/categories/%E9%98%90%E8%BF%B0/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ib67.io/categories/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

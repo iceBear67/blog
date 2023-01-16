@@ -7,7 +7,6 @@
         <language>zh-CN</language>
         <pubDate>Wed, 06 Jul 2022 19:25:58 +0800</pubDate>
         <lastBuildDate>Wed, 06 Jul 2022 19:25:58 +0800</lastBuildDate>
-        <category>memories</category>
         <category>compiler</category>
         <category>tech</category>
         <category>Java</category>
@@ -15,6 +14,7 @@
         <category>minestom</category>
         <category>guide</category>
         <category>daily</category>
+        <category>memories</category>
         <category>Linux</category>
         <category>misc</category>
         <category>summary</category>
@@ -65,7 +65,7 @@
 &lt;p&gt;由于 IDEA 可能不会自动补全没有确定模块关系的类，教程可能会大量使用完整的类名或是指向 Java SE 8 Documentation 的引用链接。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;配置-Service&#34;&gt;&lt;a href=&#34;#配置-Service&#34; class=&#34;headerlink&#34; title=&#34;配置 Service&#34;&gt;&lt;/a&gt;配置 Service&lt;/h2&gt;&lt;p&gt;Javac 通过 &lt;a href=&#34;https://www.baeldung.com/java-spi&#34;&gt;Java SPI&lt;/a&gt; 发现插件，因此你需要写一个 Service 文件让他能够发现你。&lt;/p&gt;
-&lt;p&gt;在 &lt;code&gt;src/main/resource/META-INF/services/com.source.util.Plugin&lt;/code&gt; 中写出：&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;src/main/resource/META-INF/services/com.sun.source.util.Plugin&lt;/code&gt; 中写出：&lt;/p&gt;
 &lt;figure class=&#34;highlight 1c&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;# 填写你的插件主类名，这是教程的例子。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;org.inlambda.kiwi.magic.plugin.KiwiJavacPlugin&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://i.ibb.co/zbHD9vS/image.png&#34; alt=&#34;File Location&#34;&gt;&lt;/p&gt;
