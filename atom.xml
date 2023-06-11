@@ -6,7 +6,7 @@
   <link href="https://ib67.io/atom.xml" rel="self"/>
   
   <link href="https://ib67.io/"/>
-  <updated>2022-12-20T00:55:07.117Z</updated>
+  <updated>2023-06-11T11:26:00.625Z</updated>
   <id>https://ib67.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>那些忘在学校里的东西</title>
+    <link href="https://ib67.io/2023/06/11/Things-that-left-in-school/"/>
+    <id>https://ib67.io/2023/06/11/Things-that-left-in-school/</id>
+    <published>2023-06-11T09:00:44.000Z</published>
+    <updated>2023-06-11T11:26:00.625Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;放眼大海，望过对岸楼宇林立的城市，望到高中生活的尾声。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+    <category term="daily" scheme="https://ib67.io/tags/daily/"/>
+    
+    <category term="memories" scheme="https://ib67.io/tags/memories/"/>
+    
+  </entry>
   
   <entry>
     <title>上手 Minestom: 新时代 Minecraft 服务端实现</title>
