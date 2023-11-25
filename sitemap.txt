@@ -1,3 +1,6 @@
+https://ib67.io/darkside/_posts/Travelling-With-Best-Friends.html
+https://ib67.io/_hidden_posts/Travelling-With-Best-Friends.html
+https://ib67.io/_hidden_posts/Test.html
 https://ib67.io/links/index.html
 https://ib67.io/2023/06/11/Things-that-left-in-school/
 https://ib67.io/2022/07/06/Extending-Java-Compiler/
@@ -23,6 +26,7 @@ https://ib67.io/tags/memories/
 https://ib67.io/tags/Linux/
 https://ib67.io/tags/misc/
 https://ib67.io/tags/summary/
+https://ib67.io/tags/life/
 https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/
 https://ib67.io/categories/%E6%95%99%E7%A8%8B/
 https://ib67.io/categories/%E9%98%90%E8%BF%B0/
