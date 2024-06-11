@@ -6,7 +6,7 @@
   <link href="https://ib67.io/atom.xml" rel="self"/>
   
   <link href="https://ib67.io/"/>
-  <updated>2023-06-11T11:29:36.736Z</updated>
+  <updated>2024-06-11T01:35:29.936Z</updated>
   <id>https://ib67.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于域名更改</title>
+    <link href="https://ib67.io/2024/06/11/Domain-Migration/"/>
+    <id>https://ib67.io/2024/06/11/Domain-Migration/</id>
+    <published>2024-06-11T01:24:40.000Z</published>
+    <updated>2024-06-11T01:35:29.936Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;旧的域名（ib67.io）即将弃用，请使用新域名（blog.0w0.ing）访问本博客&lt;br&gt;&lt;del&gt;io好看拦不住他贵啊&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;我发布在 Central 的 Maven Artifact 也将会陆续使用此域名（0w0.ing）更换 group</summary>
+        
+      
+    
+    
+    
+    
+    <category term="misc" scheme="https://ib67.io/tags/misc/"/>
+    
+  </entry>
   
   <entry>
     <title>那些忘在学校里的东西</title>
