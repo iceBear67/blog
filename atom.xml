@@ -6,7 +6,7 @@
   <link href="https://ib67.io/atom.xml" rel="self"/>
   
   <link href="https://ib67.io/"/>
-  <updated>2024-06-11T01:38:45.290Z</updated>
+  <updated>2024-06-11T01:41:01.615Z</updated>
   <id>https://ib67.io/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://ib67.io/2024/06/11/Domain-Migration/"/>
     <id>https://ib67.io/2024/06/11/Domain-Migration/</id>
     <published>2024-06-11T01:24:40.000Z</published>
-    <updated>2024-06-11T01:38:45.290Z</updated>
+    <updated>2024-06-11T01:41:01.615Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;p&gt;旧的域名（ib67.io）即将弃用，请使用新域名（blog.0w0.ing）访问本博客&lt;br&gt;&lt;del&gt;io好看拦不住他贵啊&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;我发布在 Central 的 Maven Artifact 也将会陆续使用此域名（0w0.ing）更换 group</summary>
-        
-      
+&lt;p&gt;我发布在 Central 的 Maven Artifact 也将会陆续使用此域名（0w0.ing）更换 group id，请悉知～&lt;/p&gt;</summary>
     
     
     
