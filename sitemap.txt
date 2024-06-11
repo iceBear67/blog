@@ -1,5 +1,5 @@
-https://ib67.io/2024/06/11/Domain-Migration/
 https://ib67.io/links/index.html
+https://ib67.io/2024/06/11/Domain-Migration/
 https://ib67.io/2023/06/11/Things-that-left-in-school/
 https://ib67.io/2022/07/06/Extending-Java-Compiler/
 https://ib67.io/2021/10/12/Windy-Day/
@@ -13,6 +13,7 @@ https://ib67.io/2022/02/10/How-to-help-Others/
 https://ib67.io/about/index.html
 https://ib67.io/%E7%A9%BA%E8%B0%83%E6%88%BF/index.html
 https://ib67.io/
+https://ib67.io/tags/misc/
 https://ib67.io/tags/compiler/
 https://ib67.io/tags/tech/
 https://ib67.io/tags/Java/
@@ -21,10 +22,8 @@ https://ib67.io/tags/minestom/
 https://ib67.io/tags/guide/
 https://ib67.io/tags/daily/
 https://ib67.io/tags/memories/
-https://ib67.io/tags/Linux/
-https://ib67.io/tags/misc/
 https://ib67.io/tags/summary/
-https://ib67.io/tags/%E7%89%A2%E9%AA%9A/
+https://ib67.io/tags/Linux/
 https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/
 https://ib67.io/categories/%E6%95%99%E7%A8%8B/
 https://ib67.io/categories/%E9%98%90%E8%BF%B0/

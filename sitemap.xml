@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ib67.io/2024/06/11/Domain-Migration/</loc>
+    <loc>https://ib67.io/links/index.html</loc>
     
     <lastmod>2024-06-11</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/links/index.html</loc>
+    <loc>https://ib67.io/2024/06/11/Domain-Migration/</loc>
     
-    <lastmod>2024-04-04</lastmod>
+    <lastmod>2024-06-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -137,6 +137,13 @@
 
   
   <url>
+    <loc>https://ib67.io/tags/misc/</loc>
+    <lastmod>2024-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ib67.io/tags/compiler/</loc>
     <lastmod>2024-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,20 +200,6 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/Linux/</loc>
-    <lastmod>2024-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ib67.io/tags/misc/</loc>
-    <lastmod>2024-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ib67.io/tags/summary/</loc>
     <lastmod>2024-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -214,7 +207,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/%E7%89%A2%E9%AA%9A/</loc>
+    <loc>https://ib67.io/tags/Linux/</loc>
     <lastmod>2024-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
