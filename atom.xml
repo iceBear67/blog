@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>nstd::out</title>
-  <icon>https://ib67.io/icon.png</icon>
+  <icon>https://blog.0w0.ing/icon.png</icon>
   <subtitle>Non Standard Output</subtitle>
-  <link href="https://ib67.io/atom.xml" rel="self"/>
+  <link href="https://blog.0w0.ing/atom.xml" rel="self"/>
   
-  <link href="https://ib67.io/"/>
+  <link href="https://blog.0w0.ing/"/>
   <updated>2024-06-11T01:51:33.023Z</updated>
-  <id>https://ib67.io/</id>
+  <id>https://blog.0w0.ing/</id>
   
   <author>
     <name>iceBear67</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于域名更改</title>
-    <link href="https://ib67.io/2024/06/11/Domain-Migration/"/>
-    <id>https://ib67.io/2024/06/11/Domain-Migration/</id>
+    <link href="https://blog.0w0.ing/2024/06/11/Domain-Migration/"/>
+    <id>https://blog.0w0.ing/2024/06/11/Domain-Migration/</id>
     <published>2024-06-11T01:24:40.000Z</published>
     <updated>2024-06-11T01:51:33.023Z</updated>
     
@@ -31,14 +31,14 @@
     
     
     
-    <category term="misc" scheme="https://ib67.io/tags/misc/"/>
+    <category term="misc" scheme="https://blog.0w0.ing/tags/misc/"/>
     
   </entry>
   
   <entry>
     <title>那些忘在学校里的东西</title>
-    <link href="https://ib67.io/2023/06/11/Things-that-left-in-school/"/>
-    <id>https://ib67.io/2023/06/11/Things-that-left-in-school/</id>
+    <link href="https://blog.0w0.ing/2023/06/11/Things-that-left-in-school/"/>
+    <id>https://blog.0w0.ing/2023/06/11/Things-that-left-in-school/</id>
     <published>2023-06-11T09:00:44.000Z</published>
     <updated>2023-06-11T11:29:36.736Z</updated>
     
@@ -47,19 +47,19 @@
     
     
     
-    <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="杂文" scheme="https://blog.0w0.ing/categories/%E6%9D%82%E6%96%87/"/>
     
     
-    <category term="daily" scheme="https://ib67.io/tags/daily/"/>
+    <category term="daily" scheme="https://blog.0w0.ing/tags/daily/"/>
     
-    <category term="memories" scheme="https://ib67.io/tags/memories/"/>
+    <category term="memories" scheme="https://blog.0w0.ing/tags/memories/"/>
     
   </entry>
   
   <entry>
     <title>上手 Minestom: 新时代 Minecraft 服务端实现</title>
-    <link href="https://ib67.io/2022/12/19/Getting-Started-With-Minestom/"/>
-    <id>https://ib67.io/2022/12/19/Getting-Started-With-Minestom/</id>
+    <link href="https://blog.0w0.ing/2022/12/19/Getting-Started-With-Minestom/"/>
+    <id>https://blog.0w0.ing/2022/12/19/Getting-Started-With-Minestom/</id>
     <published>2022-12-19T13:20:35.000Z</published>
     <updated>2022-12-20T00:55:07.117Z</updated>
     
@@ -69,21 +69,21 @@
     
     
     
-    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.0w0.ing/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="minecraft" scheme="https://ib67.io/tags/minecraft/"/>
+    <category term="minecraft" scheme="https://blog.0w0.ing/tags/minecraft/"/>
     
-    <category term="minestom" scheme="https://ib67.io/tags/minestom/"/>
+    <category term="minestom" scheme="https://blog.0w0.ing/tags/minestom/"/>
     
-    <category term="guide" scheme="https://ib67.io/tags/guide/"/>
+    <category term="guide" scheme="https://blog.0w0.ing/tags/guide/"/>
     
   </entry>
   
   <entry>
     <title>尝鲜 CodeBerg : &quot;非主流&quot; Git 服务现状</title>
-    <link href="https://ib67.io/2022/08/19/From-GitHub-To-Github/"/>
-    <id>https://ib67.io/2022/08/19/From-GitHub-To-Github/</id>
+    <link href="https://blog.0w0.ing/2022/08/19/From-GitHub-To-Github/"/>
+    <id>https://blog.0w0.ing/2022/08/19/From-GitHub-To-Github/</id>
     <published>2022-08-19T13:57:31.000Z</published>
     <updated>2022-12-20T00:30:19.870Z</updated>
     
@@ -93,15 +93,15 @@
     
     
     
-    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    <category term="记事" scheme="https://blog.0w0.ing/categories/%E8%AE%B0%E4%BA%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>「9+」 Java 编译器插件教程 101</title>
-    <link href="https://ib67.io/2022/07/06/Extending-Java-Compiler/"/>
-    <id>https://ib67.io/2022/07/06/Extending-Java-Compiler/</id>
+    <link href="https://blog.0w0.ing/2022/07/06/Extending-Java-Compiler/"/>
+    <id>https://blog.0w0.ing/2022/07/06/Extending-Java-Compiler/</id>
     <published>2022-07-06T11:25:58.000Z</published>
     <updated>2023-01-16T03:07:03.661Z</updated>
     
@@ -111,23 +111,23 @@
     
     
     
-    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    <category term="记事" scheme="https://blog.0w0.ing/categories/%E8%AE%B0%E4%BA%8B/"/>
     
-    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.0w0.ing/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="compiler" scheme="https://ib67.io/tags/compiler/"/>
+    <category term="compiler" scheme="https://blog.0w0.ing/tags/compiler/"/>
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="tech" scheme="https://blog.0w0.ing/tags/tech/"/>
     
-    <category term="Java" scheme="https://ib67.io/tags/Java/"/>
+    <category term="Java" scheme="https://blog.0w0.ing/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>关于提问与回答</title>
-    <link href="https://ib67.io/2022/02/10/How-to-help-Others/"/>
-    <id>https://ib67.io/2022/02/10/How-to-help-Others/</id>
+    <link href="https://blog.0w0.ing/2022/02/10/How-to-help-Others/"/>
+    <id>https://blog.0w0.ing/2022/02/10/How-to-help-Others/</id>
     <published>2022-02-10T12:16:48.000Z</published>
     <updated>2022-12-20T00:30:19.870Z</updated>
     
@@ -136,15 +136,15 @@
     
     
     
-    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    <category term="记事" scheme="https://blog.0w0.ing/categories/%E8%AE%B0%E4%BA%8B/"/>
     
     
   </entry>
   
   <entry>
     <title>2021 碎碎念</title>
-    <link href="https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
-    <id>https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.0w0.ing/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.0w0.ing/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
     <published>2022-02-09T06:16:45.000Z</published>
     <updated>2022-12-20T00:47:24.816Z</updated>
     
@@ -153,19 +153,19 @@
     
     
     
-    <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="杂文" scheme="https://blog.0w0.ing/categories/%E6%9D%82%E6%96%87/"/>
     
     
-    <category term="misc" scheme="https://ib67.io/tags/misc/"/>
+    <category term="misc" scheme="https://blog.0w0.ing/tags/misc/"/>
     
-    <category term="summary" scheme="https://ib67.io/tags/summary/"/>
+    <category term="summary" scheme="https://blog.0w0.ing/tags/summary/"/>
     
   </entry>
   
   <entry>
     <title>浅谈 Java 虚拟机是如何标识垃圾的</title>
-    <link href="https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/"/>
-    <id>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</id>
+    <link href="https://blog.0w0.ing/2021/11/05/How-Does-Java-Tag-Garbages/"/>
+    <id>https://blog.0w0.ing/2021/11/05/How-Does-Java-Tag-Garbages/</id>
     <published>2021-11-05T15:20:16.000Z</published>
     <updated>2022-12-20T00:47:41.112Z</updated>
     
@@ -176,17 +176,17 @@
     
     
     
-    <category term="阐述" scheme="https://ib67.io/categories/%E9%98%90%E8%BF%B0/"/>
+    <category term="阐述" scheme="https://blog.0w0.ing/categories/%E9%98%90%E8%BF%B0/"/>
     
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="tech" scheme="https://blog.0w0.ing/tags/tech/"/>
     
   </entry>
   
   <entry>
     <title>大风天</title>
-    <link href="https://ib67.io/2021/10/12/Windy-Day/"/>
-    <id>https://ib67.io/2021/10/12/Windy-Day/</id>
+    <link href="https://blog.0w0.ing/2021/10/12/Windy-Day/"/>
+    <id>https://blog.0w0.ing/2021/10/12/Windy-Day/</id>
     <published>2021-10-12T09:01:14.000Z</published>
     <updated>2022-12-20T01:39:19.157Z</updated>
     
@@ -195,19 +195,19 @@
     
     
     
-    <category term="杂文" scheme="https://ib67.io/categories/%E6%9D%82%E6%96%87/"/>
+    <category term="杂文" scheme="https://blog.0w0.ing/categories/%E6%9D%82%E6%96%87/"/>
     
     
-    <category term="daily" scheme="https://ib67.io/tags/daily/"/>
+    <category term="daily" scheme="https://blog.0w0.ing/tags/daily/"/>
     
-    <category term="memories" scheme="https://ib67.io/tags/memories/"/>
+    <category term="memories" scheme="https://blog.0w0.ing/tags/memories/"/>
     
   </entry>
   
   <entry>
     <title>从零开始的编译器生涯</title>
-    <link href="https://ib67.io/2021/10/01/Writting-A-Compiler-1/"/>
-    <id>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</id>
+    <link href="https://blog.0w0.ing/2021/10/01/Writting-A-Compiler-1/"/>
+    <id>https://blog.0w0.ing/2021/10/01/Writting-A-Compiler-1/</id>
     <published>2021-10-01T14:12:37.000Z</published>
     <updated>2022-12-20T00:48:14.959Z</updated>
     
@@ -216,21 +216,21 @@
     
     
     
-    <category term="记事" scheme="https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    <category term="记事" scheme="https://blog.0w0.ing/categories/%E8%AE%B0%E4%BA%8B/"/>
     
-    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.0w0.ing/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="compiler" scheme="https://ib67.io/tags/compiler/"/>
+    <category term="compiler" scheme="https://blog.0w0.ing/tags/compiler/"/>
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="tech" scheme="https://blog.0w0.ing/tags/tech/"/>
     
   </entry>
   
   <entry>
     <title>使用 cproxy 对程序进行透明代理</title>
-    <link href="https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
-    <id>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
+    <link href="https://blog.0w0.ing/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/"/>
+    <id>https://blog.0w0.ing/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</id>
     <published>2021-03-13T14:57:30.000Z</published>
     <updated>2022-12-20T00:47:14.589Z</updated>
     
@@ -239,12 +239,12 @@
     
     
     
-    <category term="教程" scheme="https://ib67.io/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://blog.0w0.ing/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="tech" scheme="https://ib67.io/tags/tech/"/>
+    <category term="tech" scheme="https://blog.0w0.ing/tags/tech/"/>
     
-    <category term="Linux" scheme="https://ib67.io/tags/Linux/"/>
+    <category term="Linux" scheme="https://blog.0w0.ing/tags/Linux/"/>
     
   </entry>
   

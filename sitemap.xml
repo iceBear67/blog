@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ib67.io/links/index.html</loc>
+    <loc>https://blog.0w0.ing/links/index.html</loc>
     
     <lastmod>2024-06-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2024/06/11/Domain-Migration/</loc>
+    <loc>https://blog.0w0.ing/2024/06/11/Domain-Migration/</loc>
     
     <lastmod>2024-06-11</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2023/06/11/Things-that-left-in-school/</loc>
+    <loc>https://blog.0w0.ing/2023/06/11/Things-that-left-in-school/</loc>
     
     <lastmod>2023-06-11</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2022/07/06/Extending-Java-Compiler/</loc>
+    <loc>https://blog.0w0.ing/2022/07/06/Extending-Java-Compiler/</loc>
     
     <lastmod>2023-01-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2021/10/12/Windy-Day/</loc>
+    <loc>https://blog.0w0.ing/2021/10/12/Windy-Day/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2022/12/19/Getting-Started-With-Minestom/</loc>
+    <loc>https://blog.0w0.ing/2022/12/19/Getting-Started-With-Minestom/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2021/10/01/Writting-A-Compiler-1/</loc>
+    <loc>https://blog.0w0.ing/2021/10/01/Writting-A-Compiler-1/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2021/11/05/How-Does-Java-Tag-Garbages/</loc>
+    <loc>https://blog.0w0.ing/2021/11/05/How-Does-Java-Tag-Garbages/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://blog.0w0.ing/2022/02/09/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</loc>
+    <loc>https://blog.0w0.ing/2021/03/13/%E4%BD%BF%E7%94%A8-cproxy-%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2022/08/19/From-GitHub-To-Github/</loc>
+    <loc>https://blog.0w0.ing/2022/08/19/From-GitHub-To-Github/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/2022/02/10/How-to-help-Others/</loc>
+    <loc>https://blog.0w0.ing/2022/02/10/How-to-help-Others/</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/about/index.html</loc>
+    <loc>https://blog.0w0.ing/about/index.html</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://ib67.io/%E7%A9%BA%E8%B0%83%E6%88%BF/index.html</loc>
+    <loc>https://blog.0w0.ing/%E7%A9%BA%E8%B0%83%E6%88%BF/index.html</loc>
     
     <lastmod>2022-12-20</lastmod>
     
@@ -129,86 +129,86 @@
   
 
   <url>
-    <loc>https://ib67.io/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://ib67.io/tags/misc/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/misc/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/compiler/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/compiler/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/tech/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/tech/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/Java/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/Java/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/minecraft/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/minecraft/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/minestom/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/minestom/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/guide/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/guide/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/daily/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/daily/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/memories/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/memories/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/Linux/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/Linux/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/tags/summary/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/tags/summary/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -216,29 +216,29 @@
 
   
   <url>
-    <loc>https://ib67.io/categories/%E8%AE%B0%E4%BA%8B/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/categories/%E8%AE%B0%E4%BA%8B/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/categories/%E9%98%90%E8%BF%B0/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/categories/%E9%98%90%E8%BF%B0/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ib67.io/categories/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2024-06-11</lastmod>
+    <loc>https://blog.0w0.ing/categories/%E6%9D%82%E6%96%87/</loc>
+    <lastmod>2024-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
