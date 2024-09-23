@@ -1,3 +1,4 @@
+https://blog.0w0.ing/2024/09/23/changed/
 https://blog.0w0.ing/2024/07/17/multiserver-based-on-one-utilizing-transfer/
 https://blog.0w0.ing/links/index.html
 https://blog.0w0.ing/2024/06/11/Domain-Migration/
@@ -25,6 +26,8 @@ https://blog.0w0.ing/tags/daily/
 https://blog.0w0.ing/tags/memories/
 https://blog.0w0.ing/tags/Linux/
 https://blog.0w0.ing/tags/summary/
+https://blog.0w0.ing/tags/%E7%89%A2%E9%AA%9A/
+https://blog.0w0.ing/tags/security/
 https://blog.0w0.ing/categories/%E8%AE%B0%E4%BA%8B/
 https://blog.0w0.ing/categories/%E6%95%99%E7%A8%8B/
 https://blog.0w0.ing/categories/%E9%98%90%E8%BF%B0/

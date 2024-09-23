@@ -6,7 +6,7 @@
   <link href="https://blog.0w0.ing/atom.xml" rel="self"/>
   
   <link href="https://blog.0w0.ing/"/>
-  <updated>2024-07-18T12:34:48.244Z</updated>
+  <updated>2024-09-23T05:41:31.681Z</updated>
   <id>https://blog.0w0.ing/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GPG 公钥更新</title>
+    <link href="https://blog.0w0.ing/2024/09/23/changed/"/>
+    <id>https://blog.0w0.ing/2024/09/23/changed/</id>
+    <published>2024-09-23T05:40:28.000Z</published>
+    <updated>2024-09-23T05:41:31.681Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight excel&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="security" scheme="https://blog.0w0.ing/tags/security/"/>
+    
+  </entry>
   
   <entry>
     <title>一种使用 /transfer 的轻量化子服方案</title>
