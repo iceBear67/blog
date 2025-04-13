@@ -6,7 +6,7 @@
   <link href="https://blog.0w0.ing/atom.xml" rel="self"/>
   
   <link href="https://blog.0w0.ing/"/>
-  <updated>2024-09-25T07:02:32.892Z</updated>
+  <updated>2024-07-18T12:34:48.244Z</updated>
   <id>https://blog.0w0.ing/</id>
   
   <author>
@@ -15,24 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>GPG 公钥更新</title>
-    <link href="https://blog.0w0.ing/2024/09/23/changed/"/>
-    <id>https://blog.0w0.ing/2024/09/23/changed/</id>
-    <published>2024-09-23T05:40:28.000Z</published>
-    <updated>2024-09-25T07:02:32.892Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;—–BEGIN PGP SIGNED MESSAGE—–&lt;br&gt;Hash: SHA256&lt;/p&gt;
-&lt;p&gt;由于主密钥 A1EE45D2C11058AD0B6956D9EB38DC52AAAAAAAA 已经过期，源私钥文件已经丢失（在卡上），现在更换到了新的密钥对。&lt;br&gt;如果你对此结果感到顾虑，可以联系我二次确认。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="security" scheme="https://blog.0w0.ing/tags/security/"/>
-    
-  </entry>
   
   <entry>
     <title>一种使用 /transfer 的轻量化子服方案</title>
